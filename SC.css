@@ -1,0 +1,27 @@
+body {  background: no-repeat center center fixed; background-image: url("Images/bg.jpg"); color:white;} 
+div.logo { display: block;position:absolute; width: auto; top: 0;margin:auto;left: 0;right: 0;width: auto; background: black; border-bottom: dotted 10px white; padding: 1%;margin-bottom: 50px; }
+header { position: fixed ; width: auto; left: 0;right: 0; top: 0;}
+img.logo { display: block; margin-top: 10px;}
+p,h1,h2,h3 {color: white; text-align: center;font-family: "Century Gothic",CenturyGothic, Geneva, AppleGothic, sans-serif;}
+img { margin: 0 auto;}
+h1.filml {position:fixed;width: auto; top: 220px;margin:auto;left: 0;right: 0;width: auto;  }
+footer {position:fixed; bottom: 0; right: 0;}
+td {text-align: center;}
+form.log {float:right;}
+nav {width:500px; height: auto; position: block;}
+h1.add {position:relative; width: auto; top: 250px;margin:auto;left: 0;right: 0;width: auto; margin-bottom: 10px}
+fieldset {float: right; width: auto}
+h2.cs { margin-left: auto;margin-right: auto; margin-top: 320px;}
+iframe {  display: block;margin-left: auto;margin-right: auto; margin-top: 20px; width: 560px; height: 315px; border: 0px;}
+div.addscreen { margin-left: auto; margin-right:auto; margin-top: 350px;width: auto;padding: 10px;}
+textarea {float: left; margin: 3px;}
+a:link {color: white; font-weight: bold;}
+a:visited {color: white ;}
+a:hover {color: red;}
+a:active {color: white;}
+div.listing {margin-top: 300px; width: 50%;margin-left: auto; margin-right: auto;}
+table.filmd {padding: 10px; margin-right: auto; margin-left: auto; width: 80%; font-family: "Century Gothic",CenturyGothic, Geneva, AppleGothic, sans-serif;}
+div.addscreen {margin-top: 300px; width:10%;margin-left: auto; margin-right: auto;font-family: "Century Gothic",CenturyGothic, Geneva, AppleGothic, sans-serif; }
+p.logout {float: left;}
+input.sub {float: right;}
+input.book {}
